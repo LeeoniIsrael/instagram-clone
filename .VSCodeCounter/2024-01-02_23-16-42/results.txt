@@ -1,0 +1,93 @@
+Date : 2024-01-02 23:16:42
+Directory : /Users/leeoniisrael/Desktop/insta-clone
+Total : 43 files,  8573 codes, 16 comments, 182 blanks, all 8771 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          2 |      6,776 |          0 |          2 |      6,778 |
+| JavaScript JSX |         26 |      1,482 |         13 |        126 |      1,621 |
+| JavaScript     |         12 |        284 |          3 |         44 |        331 |
+| HTML           |          1 |         14 |          0 |          3 |         17 |
+| CSS            |          1 |         12 |          0 |          3 |         15 |
+| Markdown       |          1 |          5 |          0 |          4 |          9 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         43 |      8,573 |         16 |        182 |      8,771 |
+| . (Files)                                                                                 |          6 |      6,821 |          1 |         12 |      6,834 |
+| src                                                                                       |         37 |      1,752 |         15 |        170 |      1,937 |
+| src (Files)                                                                               |          3 |         62 |          1 |         15 |         78 |
+| src/Layouts                                                                               |          1 |         35 |          4 |          6 |         45 |
+| src/Layouts/PageLayout                                                                    |          1 |         35 |          4 |          6 |         45 |
+| src/assets                                                                                |          1 |        231 |          0 |          7 |        238 |
+| src/components                                                                            |         19 |      1,064 |          5 |         88 |      1,157 |
+| src/components/AuthForm                                                                   |          4 |        210 |          3 |         20 |        233 |
+| src/components/Comment                                                                    |          1 |         20 |          0 |          3 |         23 |
+| src/components/FeedPosts                                                                  |          4 |        149 |          0 |         18 |        167 |
+| src/components/Navbar                                                                     |          1 |         24 |          0 |          2 |         26 |
+| src/components/Profile                                                                    |          5 |        456 |          1 |         30 |        487 |
+| src/components/Sidebar                                                                    |          1 |        113 |          1 |          4 |        118 |
+| src/components/SuggestedUsers                                                             |          3 |         92 |          0 |         11 |        103 |
+| src/firebase                                                                              |          1 |         18 |          0 |          3 |         21 |
+| src/hooks                                                                                 |          7 |        226 |          1 |         34 |        261 |
+| src/pages                                                                                 |          3 |        102 |          3 |         13 |        118 |
+| src/pages/AuthPage                                                                        |          1 |         24 |          2 |          4 |         30 |
+| src/pages/HomePage                                                                        |          1 |         18 |          0 |          2 |         20 |
+| src/pages/ProfilePage                                                                     |          1 |         60 |          1 |          7 |         68 |
+| src/store                                                                                 |          2 |         14 |          1 |          4 |         19 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                  | language       | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/leeoniisrael/Desktop/insta-clone/.eslintrc.cjs                                     | JavaScript     |         21 |          0 |          1 |         22 |
+| /Users/leeoniisrael/Desktop/insta-clone/README.md                                         | Markdown       |          5 |          0 |          4 |          9 |
+| /Users/leeoniisrael/Desktop/insta-clone/index.html                                        | HTML           |         14 |          0 |          3 |         17 |
+| /Users/leeoniisrael/Desktop/insta-clone/package-lock.json                                 | JSON           |      6,740 |          0 |          1 |      6,741 |
+| /Users/leeoniisrael/Desktop/insta-clone/package.json                                      | JSON           |         36 |          0 |          1 |         37 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/App.jsx                                       | JavaScript JSX |         20 |          0 |          3 |         23 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/Layouts/PageLayout/PageLayout.jsx             | JavaScript JSX |         35 |          4 |          6 |         45 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/assets/constants.jsx                          | JavaScript JSX |        231 |          0 |          7 |        238 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/AuthForm/AuthForm.jsx              | JavaScript JSX |         37 |          1 |          7 |         45 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/AuthForm/GoogleAuth.jsx            | JavaScript JSX |         54 |          2 |          5 |         61 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/AuthForm/Login.jsx                 | JavaScript JSX |         47 |          0 |          2 |         49 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/AuthForm/Signup.jsx                | JavaScript JSX |         72 |          0 |          6 |         78 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Comment/Comment.jsx                | JavaScript JSX |         20 |          0 |          3 |         23 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/FeedPosts/FeedPost.jsx             | JavaScript JSX |         13 |          0 |          3 |         16 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/FeedPosts/FeedPosts.jsx            | JavaScript JSX |         39 |          0 |          5 |         44 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/FeedPosts/PostFooter.jsx           | JavaScript JSX |         65 |          0 |          6 |         71 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/FeedPosts/PostHeader.jsx           | JavaScript JSX |         32 |          0 |          4 |         36 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Navbar/Navbar.jsx                  | JavaScript JSX |         24 |          0 |          2 |         26 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Profile/EditProfile.jsx            | JavaScript JSX |        112 |          1 |          8 |        121 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Profile/ProfileHeader.jsx          | JavaScript JSX |         82 |          0 |          4 |         86 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Profile/ProfilePost.jsx            | JavaScript JSX |        184 |          0 |          9 |        193 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Profile/ProfilePosts.jsx           | JavaScript JSX |         39 |          0 |          5 |         44 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Profile/ProfileTabs.jsx            | JavaScript JSX |         39 |          0 |          4 |         43 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/Sidebar/Sidebar.jsx                | JavaScript JSX |        113 |          1 |          4 |        118 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/SuggestedUsers/SuggestedHeader.jsx | JavaScript JSX |         37 |          0 |          4 |         41 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/SuggestedUsers/SuggestedUser.jsx   | JavaScript JSX |         30 |          0 |          2 |         32 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/components/SuggestedUsers/SuggestedUsers.jsx  | JavaScript JSX |         25 |          0 |          5 |         30 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/firebase/firebase.js                          | JavaScript     |         18 |          0 |          3 |         21 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/useEditProfile.js                       | JavaScript     |         27 |          0 |          4 |         31 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/useGetUserProfileByUsername.js          | JavaScript     |         36 |          0 |          8 |         44 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/useLogin.js                             | JavaScript     |         32 |          0 |          5 |         37 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/useLogout.js                            | JavaScript     |         20 |          0 |          2 |         22 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/usePreviewImg.js                        | JavaScript     |         27 |          0 |          6 |         33 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/useShowToast.js                         | JavaScript     |         18 |          1 |          4 |         23 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/hooks/useSignUpWithEmailAndPassword.js        | JavaScript     |         66 |          0 |          5 |         71 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/index.css                                     | CSS            |         12 |          0 |          3 |         15 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/main.jsx                                      | JavaScript JSX |         30 |          1 |          9 |         40 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/pages/AuthPage/AuthPage.jsx                   | JavaScript JSX |         24 |          2 |          4 |         30 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/pages/HomePage/HomePage.jsx                   | JavaScript JSX |         18 |          0 |          2 |         20 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/pages/ProfilePage/ProfilePage.jsx             | JavaScript JSX |         60 |          1 |          7 |         68 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/store/authStore.js                            | JavaScript     |          8 |          0 |          2 |         10 |
+| /Users/leeoniisrael/Desktop/insta-clone/src/store/userProfileStore.js                     | JavaScript     |          6 |          1 |          2 |          9 |
+| /Users/leeoniisrael/Desktop/insta-clone/vite.config.js                                    | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                                     |                |      8,573 |         16 |        182 |      8,771 |
++-------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
