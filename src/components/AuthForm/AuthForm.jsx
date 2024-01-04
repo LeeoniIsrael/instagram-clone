@@ -17,14 +17,14 @@ const AuthForm = () => {
 
     {isLogin ? <Login /> : <Signup />}
 
-    {/* ---------- OR ------------
+    {/* ---------- OR ------------ */}
     <Flex alignItems={'center'} justifyContent={'center'} my={4} gap={1} w={'full'}>
         <Box flex={2} h={'1px'} bg={"gray.400"}/>
         <Text mx={1} color={"black"}>OR</Text>
         <Box flex={2} h={'1px'} bg={"gray.400"}/>
     </Flex> */}
 
-    {/* <GoogleAuth prefix={isLogin ? "Log in" : "Sign up"} /> */}
+    <GoogleAuth prefix={isLogin ? "Log in" : "Sign up"} />
     </VStack>
   </Box>
 
