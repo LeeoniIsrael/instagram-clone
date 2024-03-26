@@ -1,3 +1,5 @@
+📸 Welcome to my GitHub repository for an ambitious journey into the world of social media development—an Instagram Clone. This project is a testament to the power of modern web technologies, embodying over 10,500+ lines of code to replicate the intricate user interface and robust functionality that Instagram offers.
+
 This Instagram clone built with React, Vite, and Firebase encompasses a comprehensive range of functionalities, ensuring a holistic social media experience for its users:
 
 User Authentication:
